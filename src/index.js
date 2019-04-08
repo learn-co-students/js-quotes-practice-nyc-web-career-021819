@@ -17,7 +17,6 @@ function fetchQuoutes() {
   fetch('http://localhost:3000/quotes')
   .then((res) => {return res.json()})
   .then((data) => {
-    console.log('data', data);
     let output = ''
     data.forEach((quote) => {
       output +=

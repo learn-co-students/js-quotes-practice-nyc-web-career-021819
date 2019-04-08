@@ -2,9 +2,9 @@
   "quotes": [
     {
       "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "likes": 1,
-      "author": "Collin Powell"
+      "quote": "Hello",
+      "likes": 2,
+      "author": "Whats up"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
     {
       "id": 5,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "likes": 1,
+      "likes": 2,
       "author": "Winston Churchhill"
     },
     {

@@ -1,41 +1,76 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Don't count the days, make the days count.",
-      "likes": 1,
-      "author": "Mike Tyson"
-    },
-    {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "likes": 1,
-      "author": "Collin Powell"
-    },
-    {
       "id": 3,
-      "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
-      "likes": 1,
+      "quote": "kjnkfdfdaaaaaaaaaaaaaa",
+      "likes": 11,
       "author": "Benjamin Franklin"
     },
     {
       "id": 4,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
+      "quote": "kjnkfefefefefe",
       "likes": 1,
-      "author": "Confucius"
+      "author": "Benjamin Franklin"
     },
     {
-      "id": 5 ,
-      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "id": 5,
+      "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
       "likes": 1,
-      "author": "Winston Churchhill"
+      "author": "Newt Gingrichkhjhdfdff"
     },
     {
       "id": 6,
-      "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
+      "quote": "ddddddddddPerseverance is the hard work you do after you get tired of doing the hard work you already did.",
       "likes": 1,
-      "author": "Newt Gingrich"
+      "author": "Newt Gingrichkhjhdfdfasdfdfdf"
+    },
+    {
+      "quote": "hello",
+      "likes": 0,
+      "author": "helfdfdfdfdf",
+      "id": 7
+    },
+    {
+      "quote": "hello",
+      "likes": 0,
+      "author": "hj",
+      "id": 8
+    },
+    {
+      "quote": "heoho",
+      "likes": 0,
+      "author": "hejhej",
+      "id": 9
+    },
+    {
+      "quote": "skdjflkj",
+      "likes": 0,
+      "author": "jfiejf",
+      "id": 10
+    },
+    {
+      "quote": "",
+      "likes": 0,
+      "author": "Benjamin Franklin",
+      "id": 11
+    },
+    {
+      "quote": "kjnk",
+      "likes": 0,
+      "author": "Benjamin Franklin",
+      "id": 12
+    },
+    {
+      "quote": "lksdjfl",
+      "likes": 0,
+      "author": "zzzz",
+      "id": 13
+    },
+    {
+      "quote": "afsdklfsdf",
+      "likes": 0,
+      "author": "ab",
+      "id": 14
     }
-
   ]
 }

@@ -2,9 +2,9 @@
   "quotes": [
     {
       "id": 1,
-      "quote": "Don't count the days, make the days count.",
-      "likes": 1,
-      "author": "Mike Tyson"
+      "quote": "Don't count the days, make the days matter.",
+      "likes": 6,
+      "author": "Mike Tiger."
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "author": "Confucius"
     },
     {
-      "id": 5 ,
+      "id": 5,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "likes": 1,
       "author": "Winston Churchhill"
@@ -36,6 +36,5 @@
       "likes": 1,
       "author": "Newt Gingrich"
     }
-
   ]
 }
